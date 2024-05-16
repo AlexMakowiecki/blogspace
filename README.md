@@ -1,3 +1,12 @@
+# Blogspace
+## Details
+A website that simulates a blog's functionality, you can see the posts of others and post a blog yourself.
+In the background, the website request the posts information from jsonPlaceholder API using fetch
+### Concepts learned in this project
+  * Request types: GET, POST, PUT, DELETE
+  * Body of the request: to send JSON data.
+  * Header of the request: to add more information about the request. 
+  * **form.reset()** to clear the inputs of a form.
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
